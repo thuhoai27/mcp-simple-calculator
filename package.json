@@ -1,6 +1,6 @@
 {
   "name": "mcp-simple-calculator",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "SimpleCalculator",
   "main": "server.js",
   "type": "module",
