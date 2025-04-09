@@ -1,6 +1,6 @@
 {
   "name": "mcp-simple-calculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SimpleCalculator",
   "main": "server.js",
   "type": "module",
@@ -8,9 +8,6 @@
   "private": false,
   "publishConfig": {
     "access": "public"
-  },
-  "bin": {
-    "text-memory": "./server.js"
   },
   "engines": {
     "node": ">= 14.0.0",
