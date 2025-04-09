@@ -18,7 +18,7 @@ MCP 구성 파일에 다음과 같이 추가하세요:
             "command": "npx",
             "args": [
                 "-y",
-                "simple-calculator"
+                "mcp-simple-calculator"
             ]
         }
     }
