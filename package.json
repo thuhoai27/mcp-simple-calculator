@@ -1,9 +1,9 @@
 {
     "name": "mcp-simple-calculator",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Simple Calculator",
     "bin": {
-        "run": "./server.js"
+        "mcp-simple-calculator": "./server.js"
     },
     "main": "server.js",
     "type": "module",
